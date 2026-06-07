@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobile-design-task/static/css/main.6a6202ec.css",
+    "main.js": "/mobile-design-task/static/js/main.0ce77545.js",
+    "static/js/453.0ec5967c.chunk.js": "/mobile-design-task/static/js/453.0ec5967c.chunk.js",
+    "index.html": "/mobile-design-task/index.html",
+    "main.6a6202ec.css.map": "/mobile-design-task/static/css/main.6a6202ec.css.map",
+    "main.0ce77545.js.map": "/mobile-design-task/static/js/main.0ce77545.js.map",
+    "453.0ec5967c.chunk.js.map": "/mobile-design-task/static/js/453.0ec5967c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6202ec.css",
+    "static/js/main.0ce77545.js"
+  ]
+}
